@@ -133,42 +133,42 @@
       "row": 2,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 15132
+      "nontransparent_pixels": 15330
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 10208
+      "nontransparent_pixels": 12287
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 13404
+      "nontransparent_pixels": 14038
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 14873
+      "nontransparent_pixels": 13609
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 12077
+      "nontransparent_pixels": 11278
     },
     {
       "state": "running-left",
       "row": 2,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 9378
+      "nontransparent_pixels": 8989
     },
     {
       "state": "running-left",

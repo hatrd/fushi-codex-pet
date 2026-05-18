@@ -252,9 +252,9 @@
           "height": 208,
           "nontransparent_pixels": 15406,
           "bbox": [
-            14,
+            15,
             32,
-            177,
+            178,
             175
           ],
           "edge_pixels": 0,
@@ -265,90 +265,90 @@
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\01.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 15132,
+          "nontransparent_pixels": 15330,
           "bbox": [
-            11,
+            8,
             38,
-            180,
+            185,
             170
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 176
+          "chroma_adjacent_pixels": 191
         },
         {
           "index": 2,
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\02.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 10208,
+          "nontransparent_pixels": 12287,
           "bbox": [
-            20,
+            5,
             57,
-            172,
+            187,
             151
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 277
         },
         {
           "index": 3,
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\03.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 13404,
+          "nontransparent_pixels": 14038,
           "bbox": [
-            22,
+            18,
             34,
-            169,
+            175,
             174
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 159
+          "chroma_adjacent_pixels": 175
         },
         {
           "index": 4,
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\04.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 14873,
+          "nontransparent_pixels": 13609,
           "bbox": [
-            6,
+            17,
             35,
-            186,
+            176,
             172
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 196
+          "chroma_adjacent_pixels": 172
         },
         {
           "index": 5,
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\05.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 12077,
+          "nontransparent_pixels": 11278,
           "bbox": [
-            6,
+            14,
             53,
-            186,
+            178,
             155
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 172
+          "chroma_adjacent_pixels": 155
         },
         {
           "index": 6,
           "file": "D:\\coding\\fushi-pet\\run\\frames\\running-left\\06.png",
           "width": 192,
           "height": 208,
-          "nontransparent_pixels": 9378,
+          "nontransparent_pixels": 8989,
           "bbox": [
-            6,
-            59,
-            185,
-            148
+            15,
+            65,
+            178,
+            142
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 153
+          "chroma_adjacent_pixels": 136
         },
         {
           "index": 7,
@@ -357,9 +357,9 @@
           "height": 208,
           "nontransparent_pixels": 12380,
           "bbox": [
-            19,
+            20,
             42,
-            172,
+            173,
             166
           ],
           "edge_pixels": 0,
