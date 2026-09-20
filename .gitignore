@@ -1,0 +1,4 @@
+# Local generation intermediates and installation backup
+/run-v2/
+/qa-alpha-review.png
+/qa-temporal-review.png

@@ -1,0 +1,7 @@
+{
+  "id": "fushi",
+  "displayName": "Fushi V2",
+  "description": "Fushi, a soft spotted sea slug companion with nine animated states and sixteen gaze directions.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}

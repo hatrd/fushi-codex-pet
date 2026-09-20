@@ -1,0 +1,118 @@
+{
+  "ok": true,
+  "reviewer": "final_qa",
+  "directions": [
+    {
+      "direction": "000",
+      "verdict": "pass",
+      "expected": "up",
+      "observed": "up",
+      "reason": "Centered face, raised eyes and mouth, exposed chin and upright front."
+    },
+    {
+      "direction": "022.5",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: face/mouth right, rear gill left. Vertical: raised muzzle and exposed lower face."
+    },
+    {
+      "direction": "045",
+      "verdict": "pass",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: muzzle projects right, far eye recedes. Vertical: high mouth on raised front, grounded belly."
+    },
+    {
+      "direction": "067.5",
+      "verdict": "warning",
+      "expected": "up-right",
+      "observed": "up-right",
+      "reason": "Horizontal: clear right profile, rear gill left. Vertical: raised muzzle; subtler upward cue beside 045."
+    },
+    {
+      "direction": "090",
+      "verdict": "pass",
+      "expected": "right",
+      "observed": "right",
+      "reason": "Mouth at screen-right silhouette, eye behind on right-facing surface, gill left, level head."
+    },
+    {
+      "direction": "112.5",
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: mouth at right tip. Vertical: face/eye lower beneath crown; shallow downward pitch."
+    },
+    {
+      "direction": "135",
+      "verdict": "pass",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: right muzzle, left gill. Vertical: eye/mouth low under visible crown."
+    },
+    {
+      "direction": "157.5",
+      "verdict": "warning",
+      "expected": "down-right",
+      "observed": "down-right",
+      "reason": "Horizontal: face on right-front, gill behind. Vertical: prominent crown, low eye; narrow oblique projection."
+    },
+    {
+      "direction": "180",
+      "verdict": "pass",
+      "expected": "down",
+      "observed": "down",
+      "reason": "Centered face, paired eyes near lower edge, mouth bottom-center, broad visible crown."
+    },
+    {
+      "direction": "202.5",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: mouth/eyes left, gill right. Vertical: low face under visible crown."
+    },
+    {
+      "direction": "225",
+      "verdict": "pass",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: mouth projects left, far eye near silhouette. Vertical: eyes/mouth low at anterior edge."
+    },
+    {
+      "direction": "247.5",
+      "verdict": "warning",
+      "expected": "down-left",
+      "observed": "down-left",
+      "reason": "Horizontal: clear left profile, gill right. Vertical: lowered mouth/eye; shallow cue beside 225."
+    },
+    {
+      "direction": "270",
+      "verdict": "pass",
+      "expected": "left",
+      "observed": "left",
+      "reason": "Mouth at screen-left silhouette, eye behind on left-facing surface, gill right, level head."
+    },
+    {
+      "direction": "292.5",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: muzzle left, gill right. Vertical: rising front, mouth above eye, exposed lower face."
+    },
+    {
+      "direction": "315",
+      "verdict": "pass",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: muzzle left, rear right. Vertical: muzzle/eye high above grounded belly."
+    },
+    {
+      "direction": "337.5",
+      "verdict": "warning",
+      "expected": "up-left",
+      "observed": "up-left",
+      "reason": "Horizontal: face left of center. Vertical: tall raised front/high mouth; stronger frontal exposure change at wrap."
+    }
+  ]
+}

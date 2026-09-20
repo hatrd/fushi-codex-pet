@@ -1,0 +1,13 @@
+{
+  "visual_qa": "pass",
+  "reviewer": "final_qa",
+  "repair_rows": [],
+  "warnings": [
+    "Uneven pose spacing at 067.5→090, 157.5→180 and 337.5→000; belly baseline, gill attachment and direction progression retained.",
+    "1.45 area ratio reflects oblique versus frontal projection, not whole-sprite scale jump.",
+    "Alpha-hole candidates are open background between appendages; no internal wounds/seams.",
+    "Jumping stable-slot extraction visually approved."
+  ],
+  "blind_validation": "pass, three unanimous reviewers, no errors or warnings",
+  "standard_states": "All nine GIF temporal montages reviewed and pass"
+}
